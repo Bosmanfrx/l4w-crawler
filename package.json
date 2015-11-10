@@ -2,7 +2,7 @@
   "name": "l4w-crawler",
   "version": "0.9.0",
   "description": "Crawler to look for errors",
-  "main": "app.js",
+  "main": "l4w-crawler.js",
   "author": "Przemysław Gosek",
   "license": "MIT",
   "dependencies": {
