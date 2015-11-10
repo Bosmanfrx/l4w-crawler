@@ -1,17 +1,26 @@
 {
   "name": "l4w-crawler",
-  "version": "0.1.0",
+  "version": "0.9.0",
   "description": "Crawler to look for errors",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Przemysław Gosek",
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.1",
     "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
     "moment": "^2.10.6",
     "simplecrawler": "^0.5.4"
-  }
+  },
+  "devDependencies": {
+    "babel-core": "^6.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bosmanfrx/l4w-crawler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bosmanfrx/l4w-crawler/issues"
+  },
+  "homepage": "https://github.com/Bosmanfrx/l4w-crawler#readme"
 }
